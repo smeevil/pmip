@@ -1,0 +1,1 @@
+Coming soon, in the meantime see: [servlet.rb](http://code.google.com/p/pmip/source/browse/trunk/pmip/plugins/core/lib/servlet.rb)
